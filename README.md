@@ -21,6 +21,8 @@ Marlin 2.1 continues to support both 32-bit ARM and 8-bit AVR boards while addin
 
 Download earlier versions of Marlin on the [Releases page](https://github.com/MarlinFirmware/Marlin/releases).
 
+<h1 align="center">Addition: Changes made to firmware to move E0 to E1, This is due to E0 driver failure </h1>
+
 ## Example Configurations
 
 Before you can build Marlin for your machine you'll need a configuration for your specific hardware. Upon request, your vendor will be happy to provide you with the complete source code and configurations for your machine, but you'll need to get updated configuration files if you want to install a newer version of Marlin. Fortunately, Marlin users have contributed dozens of tested configurations to get you started. Visit the [MarlinFirmware/Configurations](https://github.com/MarlinFirmware/Configurations) repository to find the right configuration for your hardware.

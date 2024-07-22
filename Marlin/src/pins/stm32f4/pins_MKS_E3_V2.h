@@ -62,9 +62,15 @@
 #define Z_STEP_PIN                          PC7
 #define Z_DIR_PIN                           PC9
 
-#define E0_ENABLE_PIN                       PC6
-#define E0_STEP_PIN                         PB10
-#define E0_DIR_PIN                          PB1
+// Extruder 0 Pinout 
+// #define E0_ENABLE_PIN                       PC6
+// #define E0_STEP_PIN                         PB10
+// #define E0_DIR_PIN                          PB1
+
+//Extruder 1 pinout 
+#define E0_ENABLE_PIN                       PC5
+#define E0_STEP_PIN                         PC4
+#define E0_DIR_PIN                          PA4
 
 
 //

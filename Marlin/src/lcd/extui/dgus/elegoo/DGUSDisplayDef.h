@@ -399,7 +399,7 @@
     #define SOFTVERSION             "1.3.5.1b"
   #endif
 */
-  #define SOFTVERSION             "2.1.2.3b"
+  #define SOFTVERSION             "2.1.2.3e"
 
   #if ENABLED(SDSUPPORT)
     #include "../../../../sd/SdFile.h"
